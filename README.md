@@ -1,4 +1,4 @@
-# PyRevShell
+# ReversePython
 Reverse Shell in python
 
 A simple reverse shell in python.
